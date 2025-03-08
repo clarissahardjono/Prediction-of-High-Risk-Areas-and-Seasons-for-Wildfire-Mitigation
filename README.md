@@ -21,12 +21,12 @@ This project leverages machine learning models to predict high-risk areas and se
 - **Portugal Weather Dataset**: [Kaggle Link](https://www.kaggle.com/datasets/saeedaghasoleimani/portugal-weather-from-2022-08-01-to-2023-08-01)
 
 ## Findings & Recommendations
-- **Wildfire risks are highest under conditions of high temperature, low humidity, strong winds, and minimal rainfall.**
-- **Preventive efforts should be prioritized in peak-risk months** by allocating resources efficiently and deploying firefighting personnel in high-risk areas.
-- **A data-driven approach is essential** for wildfire prevention, requiring continuous climate monitoring and regular updates.
-- **Integrating satellite data with real-time climate information** can improve prediction accuracy and proactive response.
-- **Collaboration between governments, environmental agencies, and researchers** can enhance wildfire management strategies.
-- **Long-term sustainability efforts** should focus on forest restoration, ecosystem protection, and climate change mitigation.
+- **Wildfire risks peak under high temperature, low humidity, strong winds, and minimal rainfall.**  
+- **Prioritize preventive efforts during peak-risk months** by efficiently allocating resources and deploying firefighting personnel.  
+- **A data-driven approach is essential** for wildfire prevention, requiring continuous climate monitoring and regular updates.  
+- **Integrating satellite data with real-time climate information** can enhance prediction accuracy and proactive response strategies.  
+- **Collaboration among governments, environmental agencies, and researchers** strengthens wildfire management and mitigation efforts.  
+- **Long-term sustainability efforts** should focus on forest restoration, ecosystem protection, and climate change mitigation.  
 
 ## Limitations & Future Improvements
 - **Geographical Limitation**: The model is trained specifically on wildfire data from Portugal, limiting its applicability to other regions.
